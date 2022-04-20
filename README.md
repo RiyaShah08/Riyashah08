@@ -22,9 +22,6 @@
   
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Riyashah08&show_icons=true&theme=tokyonight" />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyashah08&theme=tokyonight" />
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyashah08&layout=compact&theme=tokyonight" alt="Riyashah" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyashah08&theme=tokyonight" />
 </p>
