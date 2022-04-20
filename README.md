@@ -17,14 +17,14 @@
 
   <br>
   
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RiyaShah08&show_icons=true&theme=radical" alt="RiyaShah08" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaShah08&layout=compact" alt="RiyaShah08" width="48%">
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=RiyaShah08&show_icons=true&theme=radical" alt="RiyaShah08" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaShah08&layout=compact" alt="RiyaShah08" width="48%"> -->
   
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Riyashah08&show_icons=true&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyashah08&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyashah08&layout=compact&theme=tokyonight" alt="Riyashah" />
 </p>
 
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyashah08&layout=compact&theme=tokyonight" alt="Riyashah" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyashah08&theme=tokyonight" />
 </p>
