@@ -30,4 +30,4 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyashah08&layout=compact&theme=tokyonight" alt="Riyashah"/></p>
 </p>
 
-<h1> My Projects </h1>
+<h1 align="center"> My Projects </h1>
