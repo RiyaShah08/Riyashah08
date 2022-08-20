@@ -14,8 +14,6 @@
 - 🥂 I am a Microsoft Learn Student Ambassador.
 - 🎉 I am a UiPath UVPCE community member year 2022-23.
 - 🎇 I am selected as a Give my certificate Campus Ambassador.
-
-<img align="center" alt="visitors" src="https://gpvc.arturio.dev/RiyaShah08" />
 <br>
   
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=RiyaShah08&show_icons=true&theme=radical" alt="RiyaShah08" width="48%">
